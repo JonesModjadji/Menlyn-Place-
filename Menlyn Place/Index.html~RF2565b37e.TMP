@@ -69,32 +69,20 @@ $(document).ready(function(){
   </div>
   <div class="section2" id="section2"> 
   <div class="container2">
+
 <div class="wrap">
 <h3>MENLYN PLACE</h3>
-<b><h2><a href="#content">WHO ARE WE</a></h2></b>
+<b><h2>WHO ARE WE</h2></b>
 </div>
 </div>
-<div class="content" id="content">sds</div>
+<div class="content">sds</div>
 </div>
  <div class="section3" id="section3"> 
   <div class="container2">
   <div class="wrap">
   <h3>LIVE HERE TODAY</h3>
-<b><h2><a href="#content2">CONTACT US</a></h2></b>
+<h2>CONTACT US</h2>
 </div>
-</div>
-<div class="content" id="content2">
-<form>
-<input type="text" placeholder="Your Name">
-<input type="email" placeholder="Your Email">
-<input type="text" placeholder="Subject">
-<textarea placeholder="Message"></textarea>
-<input type="submit" value="SEND MESSAGE">
-</form>
-</div>
-</div>
-<div class="container3">
-<footer></footer>
 </div>
 </div>
 </div>
@@ -105,7 +93,7 @@ $(document).ready(function(){
       <div class="topnav" id="myTopnav">
       <a href="#home" class="active" style="display:none;">HOME</a> 
       <a href="#">Rooms</a> 
-      <a href="#">APARTMENTS</a>
+      <a href="#section2">APARTMENTS</a>
       <a href="#section2">About US</a>
       <a href="#section3">Contact Us</a>  
       <a href="javascript:void(0);" class="icon" onClick="myFunction()"> 
